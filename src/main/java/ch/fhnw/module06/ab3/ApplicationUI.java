@@ -1,6 +1,5 @@
 package ch.fhnw.module06.ab3;
 
-import ch.fhnw.module06.layout.Area;
 import javafx.geometry.Insets;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextArea;
